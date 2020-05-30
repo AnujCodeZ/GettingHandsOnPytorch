@@ -1,4 +1,4 @@
-# DeepNeuralNetworsWithPytorch
-Implementation of neural networks in pytorch.
+# GettingHandsOnPytorch.
 
-Simple implementation of neural networks from scratch.
+Implementation and making habit of pytorch.
+
